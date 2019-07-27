@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM docker.io/node:12-alpine
 
 ARG SOURCE_TARBALL=https://github.com/lucasbento/graphql-pokemon/tarball/master
 
